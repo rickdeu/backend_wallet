@@ -15,7 +15,7 @@ Configuração do Projeto
 Siga as etapas abaixo para configurar e executar o projeto.
 1. Clone o Repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rickdeu/backend_wallet.git
 cd seu-repositorio
 
 2. Configure as Variáveis de Ambiente
